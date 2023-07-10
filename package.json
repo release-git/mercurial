@@ -1,0 +1,31 @@
+{
+  "name": "@release-git/mercurial",
+  "version": "0.0.0",
+  "description": "Mercurial plugin for release-git",
+  "main": "index.js",
+  "keywords": [
+    "release",
+    "release-git",
+    "release-git-plugin",
+    "plugin",
+    "mercurial"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/release-git/mercurial.git"
+  },
+  "homepage": "https://github.com/release-git/mercurial#readme",
+  "bugs": "https://github.com/release-git/mercurial/issues",
+  "author": {
+    "name": "Md Sulaiman",
+    "email": "infosulaimanbd@gmail.com"
+  },
+  "dependencies": {
+    "release-git": "^11.0.0-alpha.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8"
+  }
+}
